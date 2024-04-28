@@ -1,0 +1,20 @@
+1. What is the name of the customer who name has the maximum length?
+2. Retrive orderno, customerid , orderdate , amount and name of customer?
+3. What is the total orders made by each customer?
+4. How many customers belong to each catergory type?
+5. What is the discount for each customer on each single buy?
+6. What is the total sales of each customer?
+7. What is the avegrage spend of each customer?
+8. What is the total spend based on customertype?
+9. What is the avg spend based on customertype?
+10. Which customer has spent the most and what is the amount?
+11. What are the name of the customer/s whose name start's with A or K ?
+12. What is the total sales for each day?
+13. What is the total sales for each day having less than total sales less than 5000?
+14. On which day max sale was done?
+15. What is the number of orders made by each customer type?
+16. What is the max and min number of orders placed by customer along with name and customerid?
+17. Which customer has got the max discount on which date, fetch the date,name of customer, total amount he spent on that day and the final discount price?
+18. Which customer did not make any purchase?
+19. What is the min and max amount on the maximum transactional day?
+20. Show the respective day name on which the orders were placed and total transactions on that particular day?
